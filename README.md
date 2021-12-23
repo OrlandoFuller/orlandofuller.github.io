@@ -2,6 +2,6 @@
 
 My Projects
 
-<a href="bethanys_pie_shop/">Bethany's Pie Shop</a> <br>
+<a href="orlandofuller.github.io/bethanys_pie_shop/index.html">Bethany's Pie Shop</a> <br>
 Languages Used: <br>
 HTML, CSS, & JavaScript
